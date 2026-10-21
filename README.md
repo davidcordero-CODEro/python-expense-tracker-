@@ -2,7 +2,7 @@
 
 This is another beginner Python project I made to practice my programming skills.
 
-This project is a command line expense tracker that allows users to record expenses, manage their budget, and see how much money they have left.
+This project is a command line expense tracker that allows users to record expenses, manage their budget and see how much money they have left.
 
 ## Features:
 
